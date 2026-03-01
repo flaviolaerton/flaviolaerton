@@ -14,7 +14,7 @@ I am a results-driven Data Professional with 4+ years of experience in the Finan
 ---
 
 ### 🏆 Featured Project
-#### [Nexus Workforce Analytics: Strategic Absenteeism Management](Link-Para-O-Seu-Novo-Repositorio-Nexus)
+#### [Nexus Workforce Analytics: Strategic Absenteeism Management](https://github.com/flaviolaerton/nexus-workforce-analytics)
 *End-to-end data solution using **Python, Databricks, and Power BI** to optimize employee attendance patterns. Highlighting the **"Bridge Day Absence Rate"** metric to identify behavioral trends around holidays.*
 
 ---
